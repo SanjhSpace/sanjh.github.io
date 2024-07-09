@@ -10,14 +10,14 @@ var S = {
     if (i !== -1) {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
-      S.UI.simulate('|#countdown 3||张|莉|生日快乐|#rectangle|');
+      S.UI.simulate('|#countdown 3||蒋|璐|洁|生日快乐|#rectangle|');
     }
 
     S.Drawing.loop(function () {
 	  m++;
       S.Shape.render();
 	  if(m==1110){
-        window.location.href="../html/birthday-cake.html";
+        window.location.href="birthdayCake.html";
       }
     });
   }

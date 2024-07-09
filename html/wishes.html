@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>祝福留言板</title>
+    <link rel="stylesheet" href="../css/main.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-..." crossorigin="anonymous">
+
+</head>
+<body>
+    <div class="container">
+        <a href="../index.html" class="back-button"><i class="fas fa-arrow-left"></i></a>
+        <h1>送上你的祝福</h1>
+        <form id="wishForm">
+            <input type="text" id="nameInput" placeholder="你的名字" required>
+            <textarea id="wishText" placeholder="在这里输入你的祝福..." rows="4" required></textarea>
+            <button type="submit" class="button">提交祝福</button>
+        </form>
+        <div id="wishes">
+            <h2>大家的祝福</h2>
+            <ul id="wishList">
+                <!-- 祝福列表 -->
+            </ul>
+        </div>
+    </div>
+    <script src="../js/wishes.js"></script>
+</body>
+</html>

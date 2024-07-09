@@ -14,7 +14,7 @@ html, body {
     display: block;
     position: relative;
     left:50%;
-    margin-top: -10em;
+    margin-top: -8em;
     margin-bottom: 0;
     margin-left: -100px;
 
@@ -34,8 +34,8 @@ html, body {
     background: #ffffff;
     border-radius: 10px;
     position: relative;
-    top: 247px;
-    margin-left: 49.5%;
+    top: 280px;
+    margin-left: 49.8%;
     width: 5px;
     height: 35px;
     -webkit-transform: translateY(-300px);
@@ -74,7 +74,7 @@ html, body {
     position: absolute;
     top: -20px;
     left: 70%;
-    margin-left: -2.2px;
+    margin-left: -5px;
     width: 6.66666667px;
     height: 18px;
 }
@@ -309,8 +309,8 @@ html, body {
 .happy {
     position: absolute;
     opacity:0;
-    width: 230px;
-    height: 137px;
+    width: 160px;
+    height: 160px;
     overflow: hidden;
     left: 50%;
     margin-left: -115px;
@@ -318,6 +318,11 @@ html, body {
 
 
     animation-delay: 0s;
+}
+
+.happy img{
+	width: 160px;
+    height: 160px;
 }
 
 @keyframes happybirthdays {

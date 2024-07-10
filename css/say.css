@@ -1,0 +1,24 @@
+.center {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.center p {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.center a {
+    color: #f06;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.center a:hover {
+    color: #ffba00;
+    transform: scale(1.1);
+}

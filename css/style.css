@@ -340,9 +340,9 @@
 }
 
 .ly-stxt02 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	left: 5%;
 	top: 5%;

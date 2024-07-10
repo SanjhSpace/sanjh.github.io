@@ -312,9 +312,9 @@
 	top:10%;
 }
 .ly-stxt01 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	left: 5%;
 	top: 5%;
@@ -369,9 +369,9 @@
 }
 
 .ly-stxt03 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	left: 5%;
 	top: 5%;
@@ -398,9 +398,9 @@
 }
 
 .ly-stxt04 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	left: 5%;
 	top: 5%;
@@ -427,9 +427,9 @@
 }
 
 .ly-stxt05 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	left: 5%;
 	top: 5%;
@@ -456,9 +456,9 @@
 }
 
 .ly-stxt06 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	right: 5%;
 	top: 5%;
@@ -484,9 +484,9 @@
 }
 
 .ly-stxt07 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	right: 5%;
 	top: 5%;
@@ -513,9 +513,9 @@
 }
 
 .ly-stxt08 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	right: 5%;
 	top: 5%;
@@ -542,9 +542,9 @@
 }
 
 .ly-stxt09 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	right: 5%;
 	top: 5%;
@@ -571,9 +571,9 @@
 }
 
 .ly-stxt10 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: relative;
 	right: 5%;
 	top: 5%;
@@ -729,8 +729,9 @@
 }
 /*文本*/
 .ly-txt11 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -747,8 +748,9 @@
 
 
 .ly-txt12 {
-	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -813,10 +815,10 @@
 }
 /*文本*/
 .ly-txt13 {
-	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	text-shadow: 1px;
-	font-color: #000;
 	position: absolute;
 	left: 3%;
 	top: 4%;
@@ -831,9 +833,9 @@
 
 .ly-txt14 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
-	font-size: 18px;
-	font-color: #000;
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;;
+	font-size: 24px;
+	color: #ff69b4;
 	position: absolute;
 	margin-left:30px;
 	margin-right:30px;
